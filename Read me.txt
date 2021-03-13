@@ -1,0 +1,1 @@
+This case study is performed on IMDB movies dataset. Various tools and methods are used in this.
